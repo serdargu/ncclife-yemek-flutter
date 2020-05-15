@@ -19,6 +19,7 @@ class App extends StatelessWidget {
         DefaultCupertinoLocalizations.delegate,
         DefaultWidgetsLocalizations.delegate,
       ],
+      title: 'NCClife Yemek',
       home: Main(),
     );
   }
